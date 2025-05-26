@@ -1,0 +1,73 @@
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\bin\Debug\net8.0\appsettings.json
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.staticwebassets.runtime.json
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.exe
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.deps.json
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.runtimeconfig.json
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.dll
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.pdb
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.AssemblyInfoInputs.cache
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.AssemblyInfo.cs
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.csproj.CoreCompileInputs.cache
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.RazorAssemblyInfo.cache
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.RazorAssemblyInfo.cs
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.Weeknd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.build.Weeknd.props
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weeknd.props
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weeknd.props
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\scopedcss\bundle\Weeknd.styles.css
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\scopedcss\projectbundle\Weeknd.bundle.scp.css
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.dll
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\refint\Weeknd.dll
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.pdb
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.genruntimeconfig.cache
+C:\Users\SE68084\Desktop\Weeknd\Weeknd\obj\Debug\net8.0\ref\Weeknd.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\appsettings.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.staticwebassets.runtime.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.staticwebassets.endpoints.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.exe
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.deps.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.runtimeconfig.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\bin\Debug\net8.0\Weeknd.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.AssemblyInfoInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.AssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.csproj.CoreCompileInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.RazorAssemblyInfo.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.RazorAssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\scopedcss\bundle\Weeknd.styles.css
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\scopedcss\projectbundle\Weeknd.bundle.scp.css
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.Weeknd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.Weeknd.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.build.Weeknd.props
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Weeknd.props
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Weeknd.props
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\refint\Weeknd.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.pdb
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\Weeknd.genruntimeconfig.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\Weeknd\Weeknd\obj\Debug\net8.0\ref\Weeknd.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.AssemblyInfoInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.AssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.csproj.CoreCompileInputs.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.RazorAssemblyInfo.cache
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.RazorAssemblyInfo.cs
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\refint\Weeknd.dll
+C:\Users\SE68084\Desktop\Matheus Fernandes\Programação\Projetos\ManifestLore\obj\Debug\net8.0\Weeknd.pdb
